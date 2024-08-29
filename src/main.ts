@@ -1,5 +1,5 @@
 import './style.css';
-import './clean-code/07-homework/homework.resolution';
+import './solid/01-SRP';
 
 const app = document.querySelector<HTMLDivElement>('#app')!;
 
